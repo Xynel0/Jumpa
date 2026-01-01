@@ -26,10 +26,10 @@ FALLING = "falling"
 # button variables
 BUTTON_WIDTH = 200
 BUTTON_HEIGHT = 30
-TEXT_START_GAME = "Iniciar jogo"
-TEXT_STOP_MUSIC = "Desligar musica"
-TEXT_PLAY_MUSIC = "Ligar musica"
-TEXT_EXIT = "Sair do jogo"
+TEXT_START_GAME = "Start game"
+TEXT_STOP_MUSIC = "Turn music OFF"
+TEXT_PLAY_MUSIC = "Turn music ON"
+TEXT_EXIT = "Exit"
 MUSIC_FILE = "clement-panchout_lj_tel_hiphop"
 
 # levels
