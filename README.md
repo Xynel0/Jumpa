@@ -1,7 +1,7 @@
 # Jumpa
 Small platformer game from a challenge using Pygame Zero. Get the flags while avoid the thorns and the flying ghosts.
 
-![abc](https://opengameart.org/sites/default/files/styles/medium/public/audio_preview/3.mp3.png)
+<img width="514" height="514" alt="jumpa-menu" src="https://github.com/user-attachments/assets/8f7d344a-f038-4c3c-9fdf-4c589b587001" />
 
 ### Requirements of the challenge
 1. The ONLY libraries allowed are pgzero, math and random;
@@ -37,6 +37,8 @@ The controls:
 ### Modify it!
 I tried to build the game systems in a way that is easy to change the values, change the maps, even making new levels if you want.
 The map is just a string of characters, what means you can build your own by coping those that are already in the code and changing as much as you want!
+
+<img width="514" height="514" alt="jumpa-lvl" src="https://github.com/user-attachments/assets/8a74b6ab-e355-40da-820d-20b1002edbf1" />
 
 ### References, inspirations and credits
 - Music: [Call Me, Homie - Clement Panchout](https://clement-panchout.itch.io/yet-another-free-music-pack)
